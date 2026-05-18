@@ -1,2 +1,23 @@
 # Games-Sales-Dashboard
-Power BI dashboard for analyzing video game sales and KPIs.
+
+Interactive Power BI dashboard for analyzing video game sales trends, regional performance, and KPIs.
+
+## Tools Used
+- Power BI
+- SQL
+- Power Query
+
+## Features
+- Sales trend analysis across different years and regions
+- KPI tracking for total sales and top-performing games
+- Interactive visualizations and dynamic filtering
+- Data cleaning and transformation using Power Query
+- Comparative analysis by platform, genre, and publisher
+
+## Key Insights
+- Identified top-selling game genres and platforms
+- Analyzed regional sales performance across global markets
+- Detected sales trends and market growth opportunities
+- Highlighted best-performing publishers based on total sales<img width="890" height="500" alt="Screenshot 2026-05-18 183853" src="https://github.com/user-attachments/assets/fa9e3a68-d867-47a8-b870-8e2cd71569f5" />
+<img width="887" height="495" alt="Screenshot 2026-05-18 183832" src="https://github.com/user-attachments/assets/d07b5c76-f721-4e1c-bcd8-8bd2e49da24a" />
+<img width="889" height="494" alt="Screenshot 2026-05-18 183818" src="https://github.com/user-attachments/assets/d32f692f-5da5-4996-b509-07fe58862b4b" />
